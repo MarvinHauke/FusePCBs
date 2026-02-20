@@ -1522,7 +1522,7 @@
 		(uuid "e5e05ac5-c1c6-426f-98e9-813de825d60e")
 	)
 	(junction
-		(at 86.36 91.44)
+		(at 64.77 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "016edc49-2955-4857-b8d4-40249d8371e2")
@@ -1540,7 +1540,7 @@
 		(uuid "1f487b40-5d28-451f-a8a8-0ab17e6353ad")
 	)
 	(junction
-		(at 86.36 111.76)
+		(at 64.77 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "22c60176-da53-49bb-a570-771f45a6854d")
@@ -1570,19 +1570,19 @@
 		(uuid "69cc365e-0680-4ae0-a2a1-ed687ed5a89a")
 	)
 	(junction
-		(at 86.36 97.79)
+		(at 64.77 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6d6d4052-8553-4eb0-bea2-b57b64427de5")
 	)
 	(junction
-		(at 86.36 104.14)
+		(at 64.77 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c1dcbfb-b4df-4559-996b-0c8360e66c59")
 	)
 	(junction
-		(at 86.36 118.11)
+		(at 64.77 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "89c0cc60-652a-49b0-9dc1-a000a291f664")
@@ -1629,7 +1629,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 97.79) (xy 86.36 97.79)
+			(xy 67.31 93.98) (xy 64.77 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1659,7 +1659,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 85.09) (xy 99.06 85.09)
+			(xy 74.93 81.28) (xy 77.47 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1669,7 +1669,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 91.44) (xy 113.03 91.44)
+			(xy 85.09 87.63) (xy 91.44 87.63)
 		)
 		(stroke
 			(width 0)
@@ -1689,7 +1689,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 97.79) (xy 99.06 97.79)
+			(xy 74.93 93.98) (xy 77.47 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1719,7 +1719,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 91.44) (xy 86.36 97.79)
+			(xy 64.77 87.63) (xy 64.77 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1729,7 +1729,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 118.11) (xy 99.06 118.11)
+			(xy 74.93 114.3) (xy 77.47 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1739,7 +1739,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 118.11) (xy 86.36 118.11)
+			(xy 67.31 114.3) (xy 64.77 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1759,7 +1759,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 109.22) (xy 127 109.22)
+			(xy 120.65 109.22) (xy 127 109.22)
 		)
 		(stroke
 			(width 0)
@@ -1829,7 +1829,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 104.14) (xy 86.36 111.76)
+			(xy 64.77 100.33) (xy 64.77 107.95)
 		)
 		(stroke
 			(width 0)
@@ -1859,7 +1859,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 111.76) (xy 86.36 111.76)
+			(xy 67.31 107.95) (xy 64.77 107.95)
 		)
 		(stroke
 			(width 0)
@@ -1869,7 +1869,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 111.76) (xy 99.06 111.76)
+			(xy 74.93 107.95) (xy 77.47 107.95)
 		)
 		(stroke
 			(width 0)
@@ -1899,7 +1899,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 104.14) (xy 113.03 104.14)
+			(xy 85.09 100.33) (xy 91.44 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1909,7 +1909,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 104.14) (xy 127 104.14)
+			(xy 120.65 104.14) (xy 127 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1929,7 +1929,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 93.98) (xy 127 93.98)
+			(xy 120.65 93.98) (xy 127 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1969,7 +1969,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 104.14) (xy 99.06 104.14)
+			(xy 74.93 100.33) (xy 77.47 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1979,7 +1979,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 129.54) (xy 86.36 130.81)
+			(xy 64.77 125.73) (xy 64.77 127)
 		)
 		(stroke
 			(width 0)
@@ -1989,7 +1989,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 97.79) (xy 113.03 97.79)
+			(xy 85.09 93.98) (xy 91.44 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1999,7 +1999,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 88.9) (xy 127 88.9)
+			(xy 120.65 88.9) (xy 127 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2019,7 +2019,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 81.28) (xy 148.59 81.28)
+			(xy 120.65 81.28) (xy 148.59 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2039,7 +2039,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 111.76) (xy 113.03 111.76)
+			(xy 85.09 107.95) (xy 91.44 107.95)
 		)
 		(stroke
 			(width 0)
@@ -2049,7 +2049,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 91.44) (xy 86.36 91.44)
+			(xy 67.31 87.63) (xy 64.77 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2059,7 +2059,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 85.09) (xy 86.36 85.09)
+			(xy 67.31 81.28) (xy 64.77 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2089,7 +2089,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 97.79) (xy 86.36 104.14)
+			(xy 64.77 93.98) (xy 64.77 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2129,7 +2129,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 86.36) (xy 147.32 86.36)
+			(xy 120.65 86.36) (xy 147.32 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2159,7 +2159,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 91.44) (xy 146.05 91.44)
+			(xy 120.65 91.44) (xy 146.05 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2179,7 +2179,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 104.14) (xy 86.36 104.14)
+			(xy 67.31 100.33) (xy 64.77 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2209,7 +2209,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 101.6) (xy 143.51 101.6)
+			(xy 120.65 101.6) (xy 143.51 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2219,7 +2219,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 118.11) (xy 86.36 119.38)
+			(xy 64.77 114.3) (xy 64.77 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2229,7 +2229,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 83.82) (xy 127 83.82)
+			(xy 120.65 83.82) (xy 127 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2239,7 +2239,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 118.11) (xy 113.03 118.11)
+			(xy 85.09 114.3) (xy 91.44 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2249,7 +2249,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 85.09) (xy 113.03 85.09)
+			(xy 85.09 81.28) (xy 91.44 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2269,7 +2269,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 96.52) (xy 144.78 96.52)
+			(xy 120.65 96.52) (xy 144.78 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2279,7 +2279,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 106.68) (xy 142.24 106.68)
+			(xy 120.65 106.68) (xy 142.24 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2289,7 +2289,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 99.06) (xy 127 99.06)
+			(xy 120.65 99.06) (xy 127 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2299,7 +2299,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 91.44) (xy 99.06 91.44)
+			(xy 74.93 87.63) (xy 77.47 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2369,7 +2369,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 85.09) (xy 86.36 91.44)
+			(xy 64.77 81.28) (xy 64.77 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2389,7 +2389,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 111.76) (xy 86.36 118.11)
+			(xy 64.77 107.95) (xy 64.77 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2408,7 +2408,7 @@
 		(uuid "f7708eba-92a8-4302-aca1-485d7ebf68a0")
 	)
 	(label "LED5"
-		(at 113.03 111.76 180)
+		(at 91.44 107.95 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2438,7 +2438,7 @@
 		(uuid "70366e60-9ea1-4542-b28d-3f03661ae5c5")
 	)
 	(label "LED4"
-		(at 113.03 104.14 180)
+		(at 91.44 100.33 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2458,7 +2458,7 @@
 		(uuid "8c3b103f-d42f-429b-a7f7-6719f583bb2b")
 	)
 	(label "LED3"
-		(at 113.03 97.79 180)
+		(at 91.44 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2468,7 +2468,7 @@
 		(uuid "b2094684-18ff-462a-b595-4d10aaac2369")
 	)
 	(label "LED1"
-		(at 113.03 85.09 180)
+		(at 91.44 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2508,7 +2508,7 @@
 		(uuid "d94ce236-af70-48d8-bfce-a8671b58f96c")
 	)
 	(label "LED2"
-		(at 113.03 91.44 180)
+		(at 91.44 87.63 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2518,7 +2518,7 @@
 		(uuid "e3c03d5f-4d90-4c23-8b9f-8dad8069249d")
 	)
 	(label "LED6"
-		(at 113.03 118.11 180)
+		(at 91.44 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2799,7 +2799,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 91.44 0)
+		(at 71.12 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2807,7 +2807,7 @@
 		(dnp no)
 		(uuid "48708dcb-62fa-4312-977f-bac87b2d19f9")
 		(property "Reference" "D8"
-			(at 92.71 88.646 0)
+			(at 71.12 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2815,7 +2815,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 91.1225 87.63 0)
+			(at 69.5325 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2824,7 +2824,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 91.44 0)
+			(at 71.12 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2833,7 +2833,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 91.44 0)
+			(at 71.12 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2842,7 +2842,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 91.44 0)
+			(at 71.12 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2851,7 +2851,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 92.71 91.44 0)
+			(at 71.12 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2876,7 +2876,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 97.79 0)
+		(at 71.12 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2884,7 +2884,7 @@
 		(dnp no)
 		(uuid "56720fba-20b1-41e7-9434-ee712d189afb")
 		(property "Reference" "D9"
-			(at 92.71 95.25 0)
+			(at 71.12 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2892,7 +2892,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 91.1225 93.98 0)
+			(at 69.5325 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2901,7 +2901,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 97.79 0)
+			(at 71.12 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2910,7 +2910,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 97.79 0)
+			(at 71.12 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2919,7 +2919,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 97.79 0)
+			(at 71.12 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2928,7 +2928,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 92.71 97.79 0)
+			(at 71.12 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2953,7 +2953,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 86.36 130.81 0)
+		(at 64.77 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2962,7 +2962,7 @@
 		(fields_autoplaced yes)
 		(uuid "5b883397-1827-4788-8e8c-dcd5134997ab")
 		(property "Reference" "#PWR03"
-			(at 86.36 137.16 0)
+			(at 64.77 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2971,7 +2971,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 86.36 135.89 0)
+			(at 64.77 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2979,7 +2979,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 86.36 130.81 0)
+			(at 64.77 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2988,7 +2988,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 130.81 0)
+			(at 64.77 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2997,7 +2997,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.36 130.81 0)
+			(at 64.77 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3019,7 +3019,7 @@
 	)
 	(symbol
 		(lib_id "Theater_Parts:AL5809_1")
-		(at 104.14 85.09 0)
+		(at 82.55 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3028,7 +3028,7 @@
 		(fields_autoplaced yes)
 		(uuid "5bcabc37-7355-48e0-88c9-86312313bfc0")
 		(property "Reference" "D1"
-			(at 104.14 82.55 0)
+			(at 82.55 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3036,7 +3036,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 102.87 87.884 0)
+			(at 81.28 84.074 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3045,7 +3045,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 104.14 85.09 0)
+			(at 82.55 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3054,7 +3054,7 @@
 			)
 		)
 		(property "Datasheet" "https://eu.mouser.com/datasheet/3/175/1/AL5809.pdf"
-			(at 103.886 84.836 0)
+			(at 82.296 81.026 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3063,7 +3063,7 @@
 			)
 		)
 		(property "Description" "constant current linear LED driver"
-			(at 104.14 85.09 0)
+			(at 82.55 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3088,7 +3088,7 @@
 	)
 	(symbol
 		(lib_id "Theater_Parts:AL5809_1")
-		(at 104.14 111.76 0)
+		(at 82.55 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3097,7 +3097,7 @@
 		(fields_autoplaced yes)
 		(uuid "61f9b826-e770-421c-8772-6e99c3f93e76")
 		(property "Reference" "D5"
-			(at 104.14 109.22 0)
+			(at 82.55 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3105,7 +3105,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 102.87 114.554 0)
+			(at 81.28 110.744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3114,7 +3114,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 104.14 111.76 0)
+			(at 82.55 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3123,7 +3123,7 @@
 			)
 		)
 		(property "Datasheet" "https://eu.mouser.com/datasheet/3/175/1/AL5809.pdf"
-			(at 103.886 111.506 0)
+			(at 82.296 107.696 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3132,7 +3132,7 @@
 			)
 		)
 		(property "Description" "constant current linear LED driver"
-			(at 104.14 111.76 0)
+			(at 82.55 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3225,7 +3225,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 111.76 0)
+		(at 71.12 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3233,7 +3233,7 @@
 		(dnp no)
 		(uuid "6aeac280-be70-4b94-8acd-677b4fa848f3")
 		(property "Reference" "D11"
-			(at 92.71 108.966 0)
+			(at 71.12 105.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3241,7 +3241,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 91.1225 107.95 0)
+			(at 69.5325 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3250,7 +3250,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 111.76 0)
+			(at 71.12 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3259,7 +3259,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 111.76 0)
+			(at 71.12 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3268,7 +3268,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 111.76 0)
+			(at 71.12 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3277,7 +3277,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 92.71 111.76 0)
+			(at 71.12 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3370,7 +3370,7 @@
 	)
 	(symbol
 		(lib_id "Theater_Parts:AL5809_1")
-		(at 104.14 97.79 0)
+		(at 82.55 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3379,7 +3379,7 @@
 		(fields_autoplaced yes)
 		(uuid "809d3505-a3dc-4da4-9082-68d907dde90a")
 		(property "Reference" "D3"
-			(at 104.14 95.25 0)
+			(at 82.55 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3387,7 +3387,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 102.87 100.584 0)
+			(at 81.28 96.774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3396,7 +3396,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 104.14 97.79 0)
+			(at 82.55 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3405,7 +3405,7 @@
 			)
 		)
 		(property "Datasheet" "https://eu.mouser.com/datasheet/3/175/1/AL5809.pdf"
-			(at 103.886 97.536 0)
+			(at 82.296 93.726 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3414,7 +3414,7 @@
 			)
 		)
 		(property "Description" "constant current linear LED driver"
-			(at 104.14 97.79 0)
+			(at 82.55 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3439,7 +3439,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 85.09 0)
+		(at 71.12 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3447,7 +3447,7 @@
 		(dnp no)
 		(uuid "83b70e97-93ee-4335-bb78-169731153d0a")
 		(property "Reference" "D7"
-			(at 92.71 82.296 0)
+			(at 71.12 78.486 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3455,7 +3455,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 91.1225 81.28 0)
+			(at 69.5325 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3464,7 +3464,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 85.09 0)
+			(at 71.12 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3473,7 +3473,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 85.09 0)
+			(at 71.12 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3482,7 +3482,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 85.09 0)
+			(at 71.12 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3491,7 +3491,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 92.71 85.09 0)
+			(at 71.12 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3516,7 +3516,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x12_Socket")
-		(at 120.65 93.98 0)
+		(at 115.57 93.98 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3526,7 +3526,7 @@
 		(fields_autoplaced yes)
 		(uuid "854a6d14-f4de-494d-ae44-7c5a34c1b493")
 		(property "Reference" "J5"
-			(at 121.285 76.2 0)
+			(at 116.205 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3534,7 +3534,7 @@
 			)
 		)
 		(property "Value" "Conn_01x12_Socket"
-			(at 121.285 78.74 0)
+			(at 116.205 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3542,7 +3542,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_WAGO:TerminalBlock_WAGO_2601-3112_1x12_P3.50mm_Vertical"
-			(at 120.65 93.98 0)
+			(at 115.57 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3551,7 +3551,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 120.65 93.98 0)
+			(at 115.57 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3560,7 +3560,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x12, script generated"
-			(at 120.65 93.98 0)
+			(at 115.57 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3747,7 +3747,7 @@
 	)
 	(symbol
 		(lib_id "Theater_Parts:AL5809_1")
-		(at 104.14 118.11 0)
+		(at 82.55 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3755,7 +3755,7 @@
 		(dnp no)
 		(uuid "9ae5afbb-f6a5-40f9-8ccb-592233067666")
 		(property "Reference" "D6"
-			(at 104.14 115.57 0)
+			(at 82.55 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3763,7 +3763,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 102.87 120.904 0)
+			(at 81.28 117.094 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3772,7 +3772,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 104.14 118.11 0)
+			(at 82.55 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3781,7 +3781,7 @@
 			)
 		)
 		(property "Datasheet" "https://eu.mouser.com/datasheet/3/175/1/AL5809.pdf"
-			(at 103.886 117.856 0)
+			(at 82.296 114.046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3790,7 +3790,7 @@
 			)
 		)
 		(property "Description" "constant current linear LED driver"
-			(at 104.14 118.11 0)
+			(at 82.55 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3881,7 +3881,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 104.14 0)
+		(at 71.12 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3889,7 +3889,7 @@
 		(dnp no)
 		(uuid "9d6db762-df23-47eb-bd3f-c7a684c0165e")
 		(property "Reference" "D10"
-			(at 92.71 101.346 0)
+			(at 71.12 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3897,7 +3897,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 87.884 102.87 0)
+			(at 66.294 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3906,7 +3906,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 104.14 0)
+			(at 71.12 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3915,7 +3915,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 104.14 0)
+			(at 71.12 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3924,7 +3924,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 104.14 0)
+			(at 71.12 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3933,7 +3933,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 92.71 104.14 0)
+			(at 71.12 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4024,7 +4024,7 @@
 	)
 	(symbol
 		(lib_id "Theater_Parts:AL5809_1")
-		(at 104.14 104.14 0)
+		(at 82.55 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4033,7 +4033,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1605533-3770-450d-8ffe-6250190cec53")
 		(property "Reference" "D4"
-			(at 104.14 101.6 0)
+			(at 82.55 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4041,7 +4041,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 102.87 106.934 0)
+			(at 81.28 103.124 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4050,7 +4050,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 104.14 104.14 0)
+			(at 82.55 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4059,7 +4059,7 @@
 			)
 		)
 		(property "Datasheet" "https://eu.mouser.com/datasheet/3/175/1/AL5809.pdf"
-			(at 103.886 103.886 0)
+			(at 82.296 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4068,7 +4068,7 @@
 			)
 		)
 		(property "Description" "constant current linear LED driver"
-			(at 104.14 104.14 0)
+			(at 82.55 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4093,7 +4093,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 118.11 0)
+		(at 71.12 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4101,7 +4101,7 @@
 		(dnp no)
 		(uuid "be018e3a-0b94-4217-970c-dafc32b2e603")
 		(property "Reference" "D12"
-			(at 92.456 115.57 0)
+			(at 70.866 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4109,7 +4109,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 91.1225 114.3 0)
+			(at 69.5325 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4118,7 +4118,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 118.11 0)
+			(at 71.12 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4127,7 +4127,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 118.11 0)
+			(at 71.12 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4136,7 +4136,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 118.11 0)
+			(at 71.12 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4145,7 +4145,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 92.71 118.11 0)
+			(at 71.12 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4170,7 +4170,7 @@
 	)
 	(symbol
 		(lib_id "Theater_Parts:AL5809_1")
-		(at 104.14 91.44 0)
+		(at 82.55 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4179,7 +4179,7 @@
 		(fields_autoplaced yes)
 		(uuid "c41588ab-8010-4657-89cb-25e3a7e74de8")
 		(property "Reference" "D2"
-			(at 104.14 88.9 0)
+			(at 82.55 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4187,7 +4187,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 102.87 94.234 0)
+			(at 81.28 90.424 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4196,7 +4196,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 104.14 91.44 0)
+			(at 82.55 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4205,7 +4205,7 @@
 			)
 		)
 		(property "Datasheet" "https://eu.mouser.com/datasheet/3/175/1/AL5809.pdf"
-			(at 103.886 91.186 0)
+			(at 82.296 87.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4214,7 +4214,7 @@
 			)
 		)
 		(property "Description" "constant current linear LED driver"
-			(at 104.14 91.44 0)
+			(at 82.55 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4239,7 +4239,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 86.36 124.46 90)
+		(at 64.77 120.65 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4248,7 +4248,7 @@
 		(fields_autoplaced yes)
 		(uuid "cb9454b7-2995-4a5d-891d-7a250189022e")
 		(property "Reference" "SW1"
-			(at 87.63 123.1899 90)
+			(at 66.04 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4257,7 +4257,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 87.63 125.7299 90)
+			(at 66.04 121.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4266,7 +4266,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
-			(at 81.28 124.46 0)
+			(at 59.69 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4275,7 +4275,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 81.28 124.46 0)
+			(at 59.69 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4284,7 +4284,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 86.36 124.46 0)
+			(at 64.77 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
