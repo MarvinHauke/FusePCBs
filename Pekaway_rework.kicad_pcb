@@ -72,9 +72,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerbers/")
 		)
 	)
 	(net 0 "")
@@ -5955,19 +5955,6 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "c9a0d8a9-9d6e-4374-80d6-d6a9a879ca5e")
-	)
-	(gr_text "- Montage löcher hinzufügen\n- Leiterbahn dicke beachten!!!\n- Beschriftung für zusammenhängende Kanäle\n- Sicherungen zusammenfassen in zweier Gruppen"
-		(at 123.5 129 0)
-		(layer "F.Cu")
-		(uuid "19395246-c26c-42b0-a6f8-965da464b065")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
 	)
 	(gr_text "GND_1"
 		(at 100 56.5 0)
